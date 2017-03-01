@@ -4,7 +4,7 @@ public class Solution {
 			return false;
 		}
 		ListNode slow = head;
-		ListNode fast = head.next;
+		ListNode fast = head;
 		while (fast != null && fast.next != null) {
 			if (fast.next == slow || fast == slow) {
 				return true;
