@@ -12,12 +12,12 @@ LeetCode题解
 | 57. Insert Interval                    | [将数字区间插入一个区间列表中，合并相交的区间](https://github.com/paomiange/LeetCode/tree/master/Sort/57.Insert%20Interval) |    Sort     |  Hard  |
 | 75. Sort Colors                        | [ 将乱序的[0,1,2]数组排序](https://github.com/paomiange/LeetCode/tree/master/Sort/75.Sort%20Colors) |    Sort     | Medium |
 | 83. Remove Duplicates from Sorted List | [移除一个有序链表的重复节点](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/83.Remove%20Duplicates%20from%20Sorted%20List) | Linked List |  Easy  |
+| 141. Linked List Cycle                 | [判断单链表是否有环](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/141.Linked%20List%20Cycle) | Linked List |  Easy  |
 | 147. Insertion Sort List               | [链表的插入排序](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/147.Insertion%20Sort%20List) | Linked List | Medium |
 | 148.Sort List                          | [链表的归并排序](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/148.Sort%20List) | Linked List | Medium |
 | 206. Reverse Linked List               | [逆序一个单链表](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/206.Reverse%20Linked%20List) | Linked List |  Easy  |
-|                                        |                                          |             |        |
-|                                        |                                          |             |        |
-|                                        |                                          |             |        |
+| 237.Delete Node in a Linked List       | [删除单链表的节点](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/237.Delete%20Node%20in%20a%20Linked%20List) | Linked List |  Easy  |
+| 328.Odd Even Linked List               | [有序单链表根据节点奇偶重排](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/328.Odd%20Even%20Linked%20List) | Linked List | Medium |
 |                                        |                                          |             |        |
 |                                        |                                          |             |        |
 |                                        |                                          |             |        |
