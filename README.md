@@ -28,6 +28,7 @@ LeetCode题解
 | 237.Delete Node in a Linked List         | [删除单链表的节点](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/237.Delete%20Node%20in%20a%20Linked%20List) | Linked List |  Easy  |
 | 324.Wiggle Sort II                       | [将一个无序数组排序成摆动数组](https://github.com/paomiange/LeetCode/tree/master/Sort/324.Wiggle%20Sort%20II) |    Sort     | Medium |
 | 328.Odd Even Linked List                 | [有序单链表根据节点奇偶重排](https://github.com/paomiange/LeetCode/tree/master/Linked%20List/328.Odd%20Even%20Linked%20List) | Linked List | Medium |
-|                                          |                                          |             |        |
-|                                          |                                          |             |        |
-|                                          |                                          |             |        |
+| 349. Intersection of Two Arrays          | [找出两组数字中相同的数字（不重复）](https://github.com/paomiange/LeetCode/tree/master/Hash%20Table/349.Intersection%20of%20Two%20Arrays) | Hash Table  | Medium |
+| 500.keyboard Row                         | [移除字母不是分布在美式键盘同一行的单词](https://github.com/paomiange/LeetCode/tree/master/Hash%20Table/500.Keyboard%20Row) | Hash Table  | Medium |
+| 535.Encode and Decode TinyURL            | [设计短链算法](https://github.com/paomiange/LeetCode/tree/master/Hash%20Table/535.Encode%20and%20Decode%20TinyURL) | Hash Table  | Medium |
+
