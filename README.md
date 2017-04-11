@@ -33,7 +33,7 @@ LeetCode题解
 | 461.Hamming Distance                     | [给两个数，计算转化二进制后有多少位不同](https://github.com/paomiange/LeetCode/tree/master/Bit%20Manipulation/461.Hamming%20Distance) | Bit Manipulation |  Easy  |
 | 500.keyboard Row                         | [移除字母不是分布在美式键盘同一行的单词](https://github.com/paomiange/LeetCode/tree/master/Hash%20Table/500.Keyboard%20Row) |    Hash Table    | Medium |
 | 535.Encode and Decode TinyURL            | [设计短链算法](https://github.com/paomiange/LeetCode/tree/master/Hash%20Table/535.Encode%20and%20Decode%20TinyURL) |    Hash Table    | Medium |
-|                                          |                                          |                  |        |
+| 557.Reverse Words in a String III        | [颠倒句子中每个单词的字母顺序](https://github.com/paomiange/LeetCode/tree/master/String/557.Reverse%20Words%20in%20a%20String%20III) |      String      |  Easy  |
 |                                          |                                          |                  |        |
 |                                          |                                          |                  |        |
 |                                          |                                          |                  |        |
